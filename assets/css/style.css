@@ -832,7 +832,7 @@ main{
 }
 
 @media screen and (max-width: 480px) {
-    .hero { padding: 30px 10px; padding-top: 260px; }
+    .hero { padding: 30px 10px;  }
     .hero h1 { font-size: 28px; }
     .btn { font-size: 18px; padding: 12px 20px; }
     #izvodjacihero { min-height: 100vh; padding: 30px 10px; }
@@ -844,5 +844,6 @@ main{
     .time-box { min-width: 90%; min-height: auto; padding: 20px; }
     .time-box h2 { font-size: 40px; }
 }
+
 
 
