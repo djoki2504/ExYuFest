@@ -837,13 +837,14 @@ main{
     .btn { font-size: 18px; padding: 12px 20px; }
     #izvodjacihero { min-height: 100vh; padding: 30px 10px; }
     .ram-izvodjaci { width: 200px; }
-    #kartehero { min-height: 50vh; }
+    #kartehero { min-height: 60vh; }
     #kontakthero { min-height: 50vh; }
     #autorhero { min-height: 50vh; }
     #odbrojavanje { flex-direction: column; align-items: center; }
     .time-box { min-width: 90%; min-height: auto; padding: 20px; }
     .time-box h2 { font-size: 40px; }
 }
+
 
 
 
